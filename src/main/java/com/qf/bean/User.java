@@ -1,7 +1,7 @@
 package com.qf.bean;
 
 
-//啦啦啦啦啦
+//啦啦啦啦
 public class User {
     private int id;
     private String username;
